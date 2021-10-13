@@ -116,4 +116,5 @@ def main():
         
         
 # call main once to start the program
-main()
+if __name__ == "__main__":
+    main()
